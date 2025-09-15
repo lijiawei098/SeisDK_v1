@@ -23,4 +23,4 @@ First version completed in **June 2025**.
 
 If you use this code, please cite or refer to the following studies:
 
-Li, J.#, Sornette, D.# (2025). Are Haicheng and Tangshan Earthquakes Dragon-Kings?. Journal of Geophysical Research: Solid Earth (in review) or https://arxiv.org/abs/2504.21310
+Li, J.#, Sornette, D.# (2025). Haicheng and Tangshan earthquakes as potential dragon-kings. Science China Earth Sciences (under review) or https://arxiv.org/abs/2504.21310
